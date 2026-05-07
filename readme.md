@@ -1,4 +1,6 @@
-## Screenshots
+ Screenshots
+ <br/>
+<br/>
 <img width="1902" height="672" alt="image" src="https://github.com/user-attachments/assets/93ddda70-c97b-48f3-b121-3ae41e0a9ac7" />
 <br/>
 <img width="1913" height="676" alt="image" src="https://github.com/user-attachments/assets/9d9ee8c1-edc7-478b-b3ca-66304d78ca8d" />
@@ -19,7 +21,11 @@
 <img width="500" height="372" alt="image" src="https://github.com/user-attachments/assets/1809e026-0b8b-48a5-8a85-aaa693079368" />
 <br/>
 <br/>
-## Folder structure 
+<br/>
+<br/>
+ Folder structure 
+<br/>
+<br/>
 <br/>
 <img width="237" height="758" alt="image" src="https://github.com/user-attachments/assets/1658ccc4-4c70-4e4a-a390-ea2b012ac85d" />
 
