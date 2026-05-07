@@ -62,6 +62,10 @@ GET /api/prescriptions/patient
 <img width="1919" height="703" alt="image" src="https://github.com/user-attachments/assets/372c79de-e5c8-49f4-85cd-955b638e5b88" />
 <br/>
 <img width="1919" height="737" alt="image" src="https://github.com/user-attachments/assets/01e3a1a1-3f1d-4c30-b7e3-3643cdb5dd5c" />
+<br/>
+<br/>
+<img width="500" height="372" alt="image" src="https://github.com/user-attachments/assets/1809e026-0b8b-48a5-8a85-aaa693079368" />
+
 
 
 
